@@ -1,8 +1,10 @@
 p{
 	font-size: 24px;
 	color: red;
+	text-transform: uppercase;
 }
 
 h1{
 	font-size: 36px;
 }
+
